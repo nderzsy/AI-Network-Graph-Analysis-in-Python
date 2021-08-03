@@ -1,4 +1,5 @@
-# Networks_AI_Live_Training
+# Exploring the Interconnected World: Network/Graph Analysis in Python
+
 
 ## Overview
 
